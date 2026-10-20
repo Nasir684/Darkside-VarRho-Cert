@@ -1,3 +1,4 @@
+10.5281/zenodo.23504442
 # DarkSide-20k Var-Rho Certification Study
 
 DarkSide-20k screens roughly a quarter-million SiPM components into 648
